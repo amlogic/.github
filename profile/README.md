@@ -1,6 +1,6 @@
 # About us
 
-Amlogic is a world leading fabless semiconductor company that specializes in the design, development, and application of high-intelligence system-on-chips (SoC’s).  As a result of our cutting-edge technologies and best-in-class solutions, we have actively expanded into new areas including edge AI processors, wireless connectivity, and automotive electronics, ushering in a new era of smart life.
+Amlogic is a world leading fabless semiconductor company designing advanced system-on-chips for smart technology. Our cutting-edge innovations in Edge AI, Video, Wireless, and Automotive electronics are shaping the future of intelligent solutions. Founded in Silicon Valley, Amlogic boasts a global network of R&D, Support, and Sales offices.
 
 ## Neural Network and AI Resources
 
